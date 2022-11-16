@@ -15,3 +15,4 @@ function copytext(){
     copyText.setSelectionRange(0, 999);
     document.execCommand("copy");
 }
+/* Code By Nakul Mishra */
